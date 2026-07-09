@@ -1,7 +1,7 @@
-- 👋 Hi, I’m iamdaamiiel
-- 👀 I’m interested in Website Development 
+- 👋 Hi, I’m michael
+- 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning Coding 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on all social media platforms @dfwtakeshi
 
 <!---
